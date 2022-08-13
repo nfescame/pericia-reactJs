@@ -1,0 +1,6 @@
+.item_li {
+  display: flex;
+}
+.item_li li {
+  background-color: #d9d9d9;
+}
