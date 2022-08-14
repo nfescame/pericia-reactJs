@@ -1,9 +1,8 @@
 import React from "react";
-import "./styles.css";
 
 export default function index() {
   return (
-    <nav className='navbar navbar-expand-md navbar-dark fixed-top bg-dark'>
+    <nav className='navbar navbar-expand-md navbar-dark bg-dark'>
       <div className='container-fluid'>
         <a className='navbar-brand' href='/'>
           Central de Perícias
