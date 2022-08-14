@@ -37,15 +37,15 @@ export default function index() {
           </div>
         </div>
         <div className='col-lg-7'>
-          <div className='h-100'>
+          <div className='h-100 mt-5'>
             <Animated
               animationInDelay={200}
               animationIn='bounceInUp'
               animationOut='fadeInUp'
               isVisible={true}
             >
-              <div className='border-start border-5 border-primary ps-4 mb-5'>
-                <h6 className='text-body text-uppercase mb-2'>Sobre nos</h6>
+              <div className='border-start border-5 border-primary  ps-4 mb-5'>
+                <h6 className='text-body text-uppercase mb-2'>Sobre nós</h6>
                 <h1 className='display-6 mb-0'>Especialistas em Engenharia</h1>
               </div>
             </Animated>
@@ -71,26 +71,13 @@ export default function index() {
               isVisible={true}
             >
               <div className='border-top mt-4 pt-4'>
-                <div className='row g-4'>
-                  <div className='col-sm-4 d-flex'>
-                    <i className='fa fa-check fa-2x text-primary flex-shrink-0 me-3'></i>
-                    <h6 className='mb-0'>Ontime at services</h6>
-                  </div>
-                  <div
-                    className='col-sm-4 d-flex wow fadeIn'
-                    data-wow-delay='0.3s'
-                  >
-                    <i className='fa fa-check fa-2x text-primary flex-shrink-0 me-3'></i>
-                    <h6 className='mb-0'>24/7 hours services</h6>
-                  </div>
-                  <div
-                    className='col-sm-4 d-flex wow fadeIn'
-                    data-wow-delay='0.5s'
-                  >
-                    <i className='fa fa-check fa-2x text-primary flex-shrink-0 me-3'></i>
-                    <h6 className='mb-0'>Verified professionals</h6>
-                  </div>
-                </div>
+                <p>
+                  O objetivo da CENTRAL DE PERÍCIAS é promover, de forma ágil,
+                  com qualidade técnica e focado na defesa do cliente,
+                  assistências técnicas periciais para acompanhar a realização
+                  de perícias judiciais, oferecendo as melhores estratégias para
+                  cada situação e caso.
+                </p>
               </div>
             </Animated>
           </div>

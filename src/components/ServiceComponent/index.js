@@ -17,7 +17,7 @@ export default function index({ title, text, img }) {
       <div className='container-xxl py-5'>
         <div className='container'>
           <div className='row g-5'>
-            <div className='col-lg-6 col-md-6'>
+            <div className='col-lg-6 col-md-6 text-start'>
               <Animated
                 animationInDelay={600}
                 animationIn='bounceInUp'
