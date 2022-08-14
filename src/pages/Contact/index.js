@@ -5,7 +5,7 @@ import { Animated } from "react-animated-css";
 
 export default function index() {
   return (
-    <div className='container-xxl py-5'>
+    <div className='container-xxl py-5 mw-100'>
       <div className='container'>
         <div className='row g-5'>
           <div className='col-lg-7'>
@@ -26,7 +26,7 @@ export default function index() {
             <div className='h-100'>
               <Animated
                 animationInDelay={200}
-                animationIn='bounceInRight'
+                animationIn='bounceInUp'
                 animationOut='fadeInUp'
                 isVisible={true}
               >
@@ -41,7 +41,7 @@ export default function index() {
 
               <Animated
                 animationInDelay={400}
-                animationIn='bounceInRight'
+                animationIn='bounceInUp'
                 animationOut='fadeInUp'
                 isVisible={true}
               >

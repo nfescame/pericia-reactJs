@@ -8,9 +8,7 @@ export default function index({ title, text, img }) {
       {/* <!-- Page Header Start --> */}
       <div className='container-fluid page-header py-5 mb-5 '>
         <div className='container text-center py-5'>
-          <h1 className='display-4 text-white animated slideInDown mb-4'>
-            Serviços
-          </h1>
+          <h1 className='display-4 text-white mb-4'>Serviços</h1>
         </div>
       </div>
       {/* <!-- Page Header End --> */}
@@ -22,7 +20,7 @@ export default function index({ title, text, img }) {
             <div className='col-lg-6 col-md-6'>
               <Animated
                 animationInDelay={600}
-                animationIn='bounceInLeft'
+                animationIn='bounceInUp'
                 animationOut='fadeInUp'
                 isVisible={true}
               >
@@ -37,7 +35,7 @@ export default function index({ title, text, img }) {
             <div className='col-lg-6 col-md-6 '>
               <Animated
                 animationInDelay={600}
-                animationIn='bounceInRight'
+                animationIn='bounceInUp'
                 animationOut='fadeInUp'
                 isVisible={true}
               >

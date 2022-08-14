@@ -5,14 +5,14 @@ import img_07 from "../../img/07.jpg";
 export default function index() {
   return (
     <div className='container-xxl py-5'>
-      <div className='row g-5'>
+      <div className='row  no-gutters '>
         <div className='col-lg-5'>
           <div
             className='position-relative overflow-hidden ps-5 pt-5 h-100'
             style={{ minHeight: "50vh" }}
           >
             <img
-              className='position-absolute w-100 h-100'
+              className='position-absolute w-100 h-100 no-gutters '
               src={img_07}
               alt=''
               style={{ objectFit: "cover" }}
@@ -23,7 +23,7 @@ export default function index() {
             >
               <Animated
                 animationInDelay={600}
-                animationIn='bounceInLeft'
+                animationIn='bounceInUp'
                 animationOut='fadeInUp'
                 isVisible={true}
               >
@@ -40,7 +40,7 @@ export default function index() {
           <div className='h-100'>
             <Animated
               animationInDelay={200}
-              animationIn='bounceInRight'
+              animationIn='bounceInUp'
               animationOut='fadeInUp'
               isVisible={true}
             >
@@ -52,7 +52,7 @@ export default function index() {
 
             <Animated
               animationInDelay={400}
-              animationIn='bounceInRight'
+              animationIn='bounceInUp'
               animationOut='fadeInUp'
               isVisible={true}
             >
@@ -66,7 +66,7 @@ export default function index() {
             </Animated>
             <Animated
               animationInDelay={400}
-              animationIn='bounceInRight'
+              animationIn='bounceInUp'
               animationOut='fadeInUp'
               isVisible={true}
             >

@@ -4,11 +4,10 @@ import img_1 from "../../../img/servicesImg/service-1.jpg";
 
 export default function index() {
   return (
-    <div>
-      <ServiceComponent
-        img={img_1}
-        title='Perícia de Insalubridade e Periculosidade'
-        text=' Normalmente a perícia é determinada pelo Juiz para que através de um
+    <ServiceComponent
+      img={img_1}
+      title='Perícia de Insalubridade e Periculosidade'
+      text=' Normalmente a perícia é determinada pelo Juiz para que através de um
         perito, especialista no assunto, se investigue fatos a respeito de
         insalubridade [contato com agentes nocivos a saúde], ou de
         periculosidade [contato com inflamáveis e explosivos, resíduo nuclear],
@@ -23,7 +22,6 @@ export default function index() {
         advogados), que atuam em suas áreas específicas de modo a prestar
         assistência técnica pericial nos temas relativos à saúde e segurança no
         âmbito trabalhista.'
-      />
-    </div>
+    />
   );
 }
