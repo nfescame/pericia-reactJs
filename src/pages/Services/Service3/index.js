@@ -7,10 +7,9 @@ export default function index() {
     <div>
       <ServiceComponent
         img={img_3}
-        title='Assistente Técnico em processos judiciais trabalhistas.
-        Qual a importância para empresa em indicar seu Assistente Técnico em
-        processos judiciais trabalhistas?'
-        text='Contar com um Perito Assistente / Assistente Técnico para acompanhamento
+        title='Assistente Técnico em processos judiciais trabalhistas.'
+        text='Qual a importância para empresa em indicar seu Assistente Técnico em
+        processos judiciais trabalhistas? Contar com um Perito Assistente / Assistente Técnico para acompanhamento
         de perícias judiciais é de fundamental importância, e um direito
         garantido pela lei às partes do processo de extrema importância na área
         trabalhista, pois pelo seu trabalho é que se estabelece o contraditório

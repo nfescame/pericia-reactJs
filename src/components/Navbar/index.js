@@ -42,7 +42,10 @@ export default function index() {
               </a>
               <ul className='dropdown-menu'>
                 <li>
-                  <a className='dropdown-item' href='/service1'>
+                  <a
+                    className='dropdown-item flex-column align-items-start'
+                    href='/service1'
+                  >
                     Perícia de Insalubridade e Periculosidade
                   </a>
                 </li>
@@ -53,7 +56,7 @@ export default function index() {
                 </li>
                 <li>
                   <a className='dropdown-item' href='/service3'>
-                    Assistente Técnico em processos judiciais trabalhistas
+                    Assistente Técnico trabalhistas
                   </a>
                 </li>
                 <li>
