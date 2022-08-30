@@ -28,7 +28,7 @@ export default function index() {
                 isVisible={true}
               >
                 <div className='d-flex flex-column justify-content-center text-center bg-primary h-100 p-3'>
-                  <h1 className='text-white'>10</h1>
+                  <h1 className='text-white'>15</h1>
                   <h2 className='text-white'>Anos</h2>
                   <h5 className='text-white mb-0'>de Experiência</h5>
                 </div>
@@ -57,7 +57,7 @@ export default function index() {
               isVisible={true}
             >
               <p>
-                O objetivo da CENTRAL DE PERÍCIAS é promover, de forma ágil, com
+                O objetivo da LEGAL PERICIAS é promover, de forma ágil, com
                 qualidade técnica e focado na defesa do cliente, assistências
                 técnicas periciais para acompanhar a realização de perícias
                 judiciais, oferecendo as melhores estratégias para cada situação
@@ -72,11 +72,7 @@ export default function index() {
             >
               <div className='border-top mt-4 pt-4'>
                 <p>
-                  O objetivo da CENTRAL DE PERÍCIAS é promover, de forma ágil,
-                  com qualidade técnica e focado na defesa do cliente,
-                  assistências técnicas periciais para acompanhar a realização
-                  de perícias judiciais, oferecendo as melhores estratégias para
-                  cada situação e caso.
+                
                 </p>
               </div>
             </Animated>

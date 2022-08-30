@@ -21,11 +21,10 @@ export default function index() {
                 <div className='row justify-content-center'>
                   <div className='col-12 col-lg-10'>
                     <h5 className='text-light text-uppercase mb-3 animated slideInDown'>
-                      Bem-vindo à Central de Perícias
+                      Bem-vindo à Legal Perícias
                     </h5>
                     <h1 className='display-2 mb-3 animated slideInDown'>
-                      Assessoria especializada em Perícias Trabalhistas e
-                      Ambientais
+                      Assistência Técnica Pericial
                     </h1>
                   </div>
                 </div>
@@ -39,10 +38,10 @@ export default function index() {
                 <div className='row justify-content-center'>
                   <div className='col-12 col-lg-10'>
                     <h5 className='text-light text-uppercase mb-3 animated slideInDown'>
-                      Bem-vindo à Central de Perícias
+                      Bem-vindo à Legal Perícias
                     </h5>
                     <h1 className='display-2 mb-3 animated slideInDown'>
-                      Professional Tiling & Painting Services
+                      Assessoria Técnica Especializada para atender Petições Judiciais
                     </h1>
                   </div>
                 </div>

@@ -9,15 +9,16 @@ export default function index() {
     <div>
       <ServiceComponent
         img={img_5}
-        title='PPRA – PROGRAMA DE PREVENÇÃO DE RISCOS AMBIENTAIS'
-        text='A Central de Perícias elabora o PPRA mediante a visita técnica de um
-        profissional de segurança do trabalho nas dependências do cliente. Nesse
-        documento constará o os riscos a que os colaboradores estão expostos,
+        title='PGR - Programa de Gerenciamento de Riscos'
+        text='A Legal Perícias elabora o Programa de Gerenciamento de Riscos - 
+        PGR conforme as Normas Regulamentadoras, mediante a visita técnica de um dos nossos 
+        especialistas em segurança do trabalho nas dependências do cliente. 
+        Nesse documento constará o os riscos a que os colaboradores estão expostos,
         medidas de segurança propostas e cronograma de atividades. Elaboramos um
         planejamento anual com o estabelecimento de metas priorizadas e
         cronograma, uma forma de registro para organizar a manutenção e
         divulgação dos dados, gerando, assim, uma periodicidade e forma de
-        avaliação do desenvolvimento do PPRA. Aplicamos também avaliações
+        avaliação do desenvolvimento do programa. Aplicamos também avaliações
         quantitativas de ruído, trabalhando com estratégia e metodologia de
         ação, para que o cliente possa ter o acompanhamento periódico do
         programa na empresa.'
@@ -33,7 +34,7 @@ export default function index() {
               <div className='border-start border-5 border-primary ps-4 mb-5'>
                 <h6 className='text-body text-uppercase mb-2'>Lista</h6>
                 <h1 className='display-6 mb-0'>
-                  Etapas de implantação do PPRA
+                  Etapas de Planejamento e Implantação do PGR
                 </h1>
               </div>
 
