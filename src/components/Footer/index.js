@@ -52,7 +52,7 @@ export default function App() {
                   <p
                     style={{
                       color: "green",
-                      fontWeight: "bold"
+                      fontWeight: "bold",
                     }}
                   >
                     Atendemos todo o BRASIL
@@ -80,14 +80,13 @@ export default function App() {
                   Contato
                 </h6>
                 <p>
-                  <MdLocationOn /> Manoel Pedro Júnior, 413 Mauá/SP
+                  <MdLocationOn /> Manoel Pedro Júnior, 413 - Mauá/SP
                 </p>
                 <p>
-                  <MdEmail />
-                  xbrsustentabilidade@gmail.com
+                  <MdEmail /> contato@legalpericias.com.br
                 </p>
                 <p>
-                  <BsTelephoneFill /> + (11) 97673-6789
+                  <BsTelephoneFill /> + 55 (11) 97673-6789
                 </p>
               </div>
             </div>

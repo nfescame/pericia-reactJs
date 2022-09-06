@@ -51,11 +51,11 @@ export default function index() {
                 </p>
 
                 <p>
-                  <BsTelephoneFill /> + (11) 97673-6789
+                  <BsTelephoneFill /> + 55 (11) 97673-6789
                 </p>
 
                 <p>
-                  <MdEmail /> xbrsustentabilidade@gmail.com
+                  <MdEmail /> contato@legalpericias.com.br
                 </p>
               </Animated>
             </div>

@@ -7,7 +7,7 @@ export default function index() {
     <div>
       <ServiceComponent
         img={img_4}
-        title='Laudos periciais. IMPUGNAÇÃO DE LAUDOS'
+        title='Laudos periciais e impugnação'
         text='Cabe ao Engenheiro ou Médico contratado, após tomar conhecimento dos
         autos do processo, expor de forma clara e objetiva seu entendimento
         sobre as questões suscitadas, esclarecendo os pontos controvertidos e
