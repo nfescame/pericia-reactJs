@@ -2,8 +2,8 @@ import React from "react";
 import SectionAbout from "../../components/SectionAbout";
 import CardPerson from "../../components/CardPerson";
 import { Animated } from "react-animated-css";
-import team_1 from "../../img/team-1.jpg";
-import team_2 from "../../img/team-2.jpg";
+//import team_1 from "../../img/team-1.jpg";
+//import team_2 from "../../img/team-2.jpg";
 
 export default function index() {
   return (
