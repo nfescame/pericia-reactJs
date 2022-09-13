@@ -55,7 +55,7 @@ export default function index() {
                 </p>
 
                 <p>
-                  <MdEmail /> contato@legalpericias.com.br
+                  <MdEmail /> pericias@legalpericias.com.br
                 </p>
               </Animated>
             </div>

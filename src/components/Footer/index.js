@@ -83,7 +83,7 @@ export default function App() {
                   <MdLocationOn /> Manoel Pedro Júnior, 413 - Mauá/SP
                 </p>
                 <p>
-                  <MdEmail /> contato@legalpericias.com.br
+                  <MdEmail /> pericias@legalpericias.com.br
                 </p>
                 <p>
                   <BsTelephoneFill /> + 55 (11) 97673-6789
