@@ -86,7 +86,7 @@ export default function App() {
                   <MdEmail /> pericias@legalpericias.com.br
                 </p>
                 <p>
-                  <BsTelephoneFill /> + 55 (11) 97673-6789
+                  <BsTelephoneFill /> + 55 (11) 97575-8198
                 </p>
               </div>
             </div>
