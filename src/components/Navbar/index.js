@@ -71,14 +71,14 @@ export default function index() {
                   </a>
                 </li>
                 <li>
-                  <a className="dropdown-item" href="/service5">
+                  {/* <a className="dropdown-item" href="/service5">
                     PGR
-                  </a>
+                  </a> */}
                 </li>
                 <li>
-                  <a className="dropdown-item" href="/service6">
+                  {/* <a className="dropdown-item" href="/service6">
                     PCMSO
-                  </a>
+                  </a> */}
                 </li>
               </ul>
             </li>

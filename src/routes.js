@@ -26,8 +26,8 @@ const RoutesNav = () => {
         <Route element={<Service2 />} path='/service2' />
         <Route element={<Service3 />} path='/service3' />
         <Route element={<Service4 />} path='/service4' />
-        <Route element={<Service5 />} path='/service5' />
-        <Route element={<Service6 />} path='/service6' />
+        {/* <Route element={<Service5 />} path='/service5' />
+        <Route element={<Service6 />} path='/service6' /> */}
       </Routes>
       <Footer />
     </BrowserRouter>
