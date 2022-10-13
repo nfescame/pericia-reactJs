@@ -11,8 +11,6 @@ import Service1 from "./pages/Services/Service1";
 import Service2 from "./pages/Services/Service2";
 import Service3 from "./pages/Services/Service3";
 import Service4 from "./pages/Services/Service4";
-import Service5 from "./pages/Services/Service5";
-import Service6 from "./pages/Services/Service6";
 
 const RoutesNav = () => {
   return (
@@ -26,8 +24,6 @@ const RoutesNav = () => {
         <Route element={<Service2 />} path='/service2' />
         <Route element={<Service3 />} path='/service3' />
         <Route element={<Service4 />} path='/service4' />
-        {/* <Route element={<Service5 />} path='/service5' />
-        <Route element={<Service6 />} path='/service6' /> */}
       </Routes>
       <Footer />
     </BrowserRouter>
